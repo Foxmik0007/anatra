@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "691392450454",
+    "project_id": "fianarana-c9974",
+    "storage_bucket": "fianarana-c9974.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691392450454:android:716c6089df5f9685a657b7",
+        "android_client_info": {
+          "package_name": "com.example.anatra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691392450454-cmn7c9aa8ploe5bgd84s76rcfqc1p2gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPZLkq4rScakZOq4aOvLlV1OGy4QtupIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691392450454-cmn7c9aa8ploe5bgd84s76rcfqc1p2gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
