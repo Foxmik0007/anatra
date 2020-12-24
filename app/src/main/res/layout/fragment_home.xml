@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F4F4F4"
+    tools:context=".HomeFragment" >
+
+    <ListView
+        android:id="@+id/listViewIte"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#753F3F"
+        tools:layout_editor_absoluteX="113dp"
+        tools:layout_editor_absoluteY="311dp" />
+</FrameLayout>

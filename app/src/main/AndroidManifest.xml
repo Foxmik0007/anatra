@@ -9,9 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Anatra">
-        <activity android:name=".choix_examen"></activity>
+        <activity android:name=".liste"></activity>
+        <activity android:name=".choix_examen" />
         <activity android:name=".choixNiveau" />
-        <activity android:name=".MainActivity"
+        <activity
+            android:name=".MainActivity"
             android:theme="@style/Theme.AppCompat.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
